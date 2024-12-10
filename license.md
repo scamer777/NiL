@@ -38,7 +38,7 @@ The Licensor shall not be liable for any damages arising out of or related to th
 This Agreement will terminate automatically if the Licensee breaches any of its terms. Upon termination, the Licensee must cease all use of the Software and destroy all copies of it.
 
 ## **9. Governing Law**  
-This Agreement shall be governed by and construed in accordance with the laws of **[Your Jurisdiction, e.g., Your Country or State]**.  
+This Agreement shall be governed by and construed in accordance with the laws of **Ukraine**.  
 
 ---
 
